@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="alumathpeergroup14",
+    name="alumathgroup14",
     version="1.0.0",
     description="A matrix multiplication package by Peer Group 14.",
     author="Emmanuel Kwizera, Jade Isimbi Tuzinde, Pretty Ntakirutimana, Phinah Mahoro",
