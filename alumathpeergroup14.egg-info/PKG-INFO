@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: alumathpeergroup14
-Version: 1.0.0
-Summary: A matrix multiplication package by Peer Group 14.
-Author: Emmanuel Kwizera, Jade Isimbi Tuzinde, Pretty Ntakirutimana, Phinah Mahoro
-Author-email: e.kwizera1@alustudent.com
-Requires-Python: >=3.6
-License-File: LICENSE
