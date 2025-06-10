@@ -1,3 +1,5 @@
+from setuptools import setup, find_packages
+
 setup(
     name="alumathpeergroup14",
     version="1.0.0",
