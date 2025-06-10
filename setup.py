@@ -6,8 +6,7 @@ setup(
     description="A friendly matrix multiplication package by Kabango Mathias.",
     author="Emmanuel Kwizera, Jade Isimbi Tuzinde, Pretty Ntakirutimana, Phinah Mahoro",
     author_email="e.kwizera1@alustudent.com",
-    packages=find_packages(where="src"),
-    package_dir={"":"src"},
+    packages=find_packages(),
     include_package_data=True,
     python_requires=">=3.6"
 )
