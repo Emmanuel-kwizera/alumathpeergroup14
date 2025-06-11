@@ -18,3 +18,23 @@ To install locally:
 
 
 pip install alumathpeergroup14
+ 
+
+## Usage
+
+from alumathpeergroup14 import main 
+
+mat_1 = [[1, 2], [3, 4]]
+mat_2 = [[5, 6], [7, 8]]
+
+main.multiply_matrices(mat_1, mat_2)
+
+
+
+## Authors
+
+
+Emmanuel Kwizera (e.kwizera1@alustudent.com)
+Jade Isimbi Tuzinde(j.isimbituz1@gmail.com)
+Pretty Ntakirutimana(p.ntakiruti@alustudent.com)
+Phinah Mahoro (p.mahoro@alustudent.com)
